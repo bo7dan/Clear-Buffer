@@ -1,14 +1,16 @@
 [![License: GPL v3](https://img.shields.io)](https://www.gnu.org)
 
 Clean-Buffer CLI програма для очистки буферу обміну на python
- ## ⚖️ License
+ ## ⚖️ Ліцензія
 
-This project is licensed under the **GNU General Public License v3.0**.
+Цей проект ліцензований за **GNU General Public License v3.0**.
 
-- You are free to copy, modify, and distribute this software.
-- Any modifications or derivative works **must also be licensed under GPLv3**.
-- For more details, see the [LICENSE](LICENSE) file in this repository.
+- Ви можете вільно копіювати, модифікувати та розповсюджувати це програмне забезпечення.
+- Будь-які модифікації або похідні роботи **також повинні бути ліцензовані під GPLv3**.
+- Для отримання більш детальної інформації дивіться файл [LICENSE](LICENSE) у цьому репозиторії.
 
 ---
-*This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.*
+*Ця програма розповсюджується з надією, що вона буде корисною, але БЕЗ ЖОДНИХ ГАРАНТІЙ.*
 
+
+Translated with DeepL.com (free version)
